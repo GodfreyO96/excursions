@@ -1,0 +1,40 @@
+html    {
+    background-color: black;
+    text-align: center;
+}
+
+.copyright  {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
+
+a   {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+}
+
+.main_heading   {
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+}
+
+video   {
+    background-color: black;
+}
+
+h1  {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p   {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
